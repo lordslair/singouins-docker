@@ -30,7 +30,7 @@ flask-bcrypt==1.0.1
     # via -r requirements.in
 flask-cors==5.0.0
     # via -r requirements.in
-flask-jwt-extended==4.6.0
+flask-jwt-extended==4.7.1
     # via -r requirements.in
 flask-swagger-ui==4.11.1
     # via -r requirements.in
