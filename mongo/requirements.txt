@@ -26,5 +26,5 @@ pyflakes==3.2.0
     # via flake8
 pymongo==4.10.1
     # via mongoengine
-pytest==8.3.3
+pytest==8.3.4
     # via -r requirements.in
