@@ -1,5 +1,5 @@
 Flask==3.0.3
-loguru==0.7.2
+loguru==0.7.3
 mongoengine==0.29.1
 prometheus-flask-exporter==0.23.1
 redis==5.1.1
