@@ -1,4 +1,4 @@
 asyncio==3.4.3
-loguru==0.7.2
+loguru==0.7.3
 redis==5.1.1
 websockets==13.1
