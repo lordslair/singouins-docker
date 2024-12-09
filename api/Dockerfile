@@ -1,5 +1,5 @@
 # Stage 1: Build
-FROM alpine:3.20 AS builder
+FROM alpine:3.21 AS builder
 
 # Create user and group
 RUN adduser -h /code -u 1000 -D -H api
@@ -29,7 +29,7 @@ RUN apk update --no-cache \
     && apk del .build-deps
 
 # Stage 2: Final
-FROM alpine:3.20
+FROM alpine:3.21
 
 # Create user and group
 RUN adduser -h /code -u 1000 -D -H api
