@@ -38,7 +38,7 @@ prometheus-flask-exporter==0.23.1
     # via -r requirements.in
 pymongo==4.10.1
     # via mongoengine
-redis==5.1.1
+redis==5.2.1
     # via -r requirements.in
 requests==2.32.3
     # via -r requirements.in
