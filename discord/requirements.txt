@@ -41,7 +41,7 @@ idna==3.10
     #   yarl
 kubernetes==31.0.0
     # via -r requirements.in
-loguru==0.7.2
+loguru==0.7.3
     # via -r requirements.in
 mongoengine==0.29.1
     # via -r requirements.in
