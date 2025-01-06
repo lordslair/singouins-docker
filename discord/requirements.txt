@@ -53,7 +53,7 @@ oauthlib==3.2.2
     # via
     #   kubernetes
     #   requests-oauthlib
-pillow==11.0.0
+pillow==11.1.0
     # via -r requirements.in
 propcache==0.2.0
     # via yarl
