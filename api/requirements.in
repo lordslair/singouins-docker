@@ -7,7 +7,7 @@ flask-uuid==0.2
 gunicorn==23.0.0
 loguru==0.7.2
 mongoengine==0.29.1
-pydantic==2.9.2
+pydantic==2.10.5
 prometheus-flask-exporter==0.23.1
 requests==2.32.3
 yarqueue==0.4.1
